@@ -1,2 +1,2 @@
 # Miju-Ahmed.github.io
-[see website](https://Miju-Ahmed.io)
+[see website](https://Miju-Ahmed.github.io)
